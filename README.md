@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Wilson Jimenez Chacon</h1>
 <h3 align="center">Computer science student, focusing on web development, especially the frontend part.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navi-art1" alt="navi-art1" /></a> </p>
 
 - 🔭 I am currently studying at [Universidad Nacional de Ingenieria](https://www.uni.edu.pe/)
 
