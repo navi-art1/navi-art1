@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joel Wilson Jimenez Chacon</h1>
-<h3 align="center">Computer science student, focusing on web development, especially the frontend part.</h3>
+<h3 align="center">Software Engineer, specializing in software development with a focus on frontend technologies, particularly React.js.</h3>
 
 
-- 🔭 I am currently studying at [Universidad Nacional de Ingenieria](https://www.uni.edu.pe/)
+- 🔭 I graduated with a Bachelor's degree from Universidad Nacional de Ingeniería.
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently enhancing my skills in React.js and Node.js to build robust and scalable web applications.
 
-- 📫 How to reach me **jjimenezch@uni.pe**
+- 💻 I develop projects using React.js for the frontend and Node.js for the backend, focusing on creating efficient, responsive user interfaces and API services.
+
+- 📫 You can reach me at jjimenezch@uni.pe.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
